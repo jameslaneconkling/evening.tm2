@@ -1,4 +1,4 @@
-run-bike-hike.tm2
+evening.tm2
 =================
 
-A style for tracking running, biking, and hiking routes.
+A terrain basemap using a orange-to-purple gradient. Colors were inspired in part by the French artist and comic book illustrator Jean Giraud (aka Moebius).
